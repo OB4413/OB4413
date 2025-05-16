@@ -46,7 +46,7 @@ Here are some of my most challenging and fun projects at 1337:
 
 ### 📫 Contact Me
 📍 Ouarzazate, Morocco  
-📧 [Email me](mailto:your-email@example.com) *(you can remove this if you want privacy)*  
-📎 LinkedIn (add if you have one)
+📧 [Email me](mailto:lionousama4@gmail.com)
+📎 LinkedIn https://www.linkedin.com/in/ousama-barais-b74a76315/
 
 ---
