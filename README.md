@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 - 🏫 Currently studying at **1337 School Morocco**
-- 🔍 Focused on **low-level programming**, **system internals**, and **reverse engineering**
+- 🔍 Focused on **low-level programming**, **system internals**, and **penetration tester**
 - 💡 Passionate about automation, clean code, and building smart solutions
 - 🧪 Exploring C, Shell, Assembly, Python, and Linux
 - 🎯 Goal: Become a top systems/security engineer
