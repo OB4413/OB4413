@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Oussama 👋</h1>
 
 <p align="center">
-  🧠 1337 Student | 🛠️ C Developer | ⚙️ Linux Enthusiast | 💻 Future Reverse Engineer
+  🧠 1337 Student | 🛠️ C Developer | ⚙️ Linux Enthusiast | 💻 Future penetration tester
 </p>
 
 ---
